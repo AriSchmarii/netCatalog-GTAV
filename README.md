@@ -1,5 +1,7 @@
 current server version: 980
+
 current version on this git: 980
+
 previous version on this git: 938
 
 # new service transactions since previous push:
